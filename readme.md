@@ -6,11 +6,11 @@
 ### React-intl
     
  
-    链接地址 
+链接地址 
 
 [React-intl](https://github.com/yahoo/react-intl)
 
-    使用教程 
+使用教程 
 
 [在React中使用React-intl](https://segmentfault.com/a/1190000005824920)
 
